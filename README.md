@@ -38,4 +38,5 @@ To better prepare for the Baby Boomers who will be retiring, Pewlett-Hackard has
         ORDER BY e.emp_no;
   
 Lastly, by running the count functions, we can determine how many people are retiring from each department and the number in each job title within that department. You could easily change this code slightly and figure out the number of people retiring for the department as a whole or could change your conditionals to determine how many mentor eligible employees are in each specific department. 
+
 ![image](https://user-images.githubusercontent.com/117782103/211130038-fb621a88-44e1-4bdc-bbc0-3324c46d41c8.png)
